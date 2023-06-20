@@ -1,0 +1,23 @@
+{
+  "name": "random-string",
+  "version": "1.0.0",
+  "description": "A school project to generate a random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esbj/NPM-RandomString.git"
+  },
+  "keywords": [
+    "string",
+    "random"
+  ],
+  "author": "Alexander Esbjörnsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esbj/NPM-RandomString/issues"
+  },
+  "homepage": "https://github.com/Esbj/NPM-RandomString#readme"
+}

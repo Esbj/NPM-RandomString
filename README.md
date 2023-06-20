@@ -1,1 +1,1 @@
-# NPM-ReverseString
+# NPM-RandomString

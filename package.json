@@ -1,5 +1,5 @@
 {
-  "name": "random-string",
+  "name": "random-string-esb",
   "version": "1.0.0",
   "description": "A school project to generate a random string",
   "main": "index.js",

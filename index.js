@@ -1,4 +1,4 @@
-export default function randomString(length) {
+function randomString(length) {
   const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖabcdefghijklmnopqrstuvwxyzåäö';
   let result = '';
   for (let i = 0; i < length; i++) {
@@ -6,3 +6,5 @@ export default function randomString(length) {
   }
   return result;
 }
+
+export default randomString;
